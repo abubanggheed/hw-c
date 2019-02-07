@@ -1,6 +1,6 @@
 // this is the tutorial from macworld on writing c
 
-#import <stdio.h>
+#include <stdio.h>
 
 int main()
 {

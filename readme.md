@@ -3,10 +3,10 @@ This is a library of c programs made explicitly for fun and practice. People hav
 # Setup
 None of the c files are built. To build a file, run
 ```
-make <filename> -C dir builds
+make <filename> -C<foldername>
 ```
 
 then run it with
 ```
-./<filename>
+./<foldername>/<filename>
 ```
